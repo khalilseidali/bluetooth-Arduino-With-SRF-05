@@ -1,2 +1,2 @@
-# bluetooth-Arduino-With-SRF-05
+# bluetooth-Arduino-With-HC-05
 Setting Up a simple Bluetooth module with Arduino uno
